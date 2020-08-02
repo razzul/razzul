@@ -1,11 +1,12 @@
-### Hi there, I'm Razul - aka [razzul][website] 👋
+### Hi there, I'm Rajul Mondal - aka [razzul][website] 👋
 
-## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [NTTPC Web Hosting Project][website]!
+## I'm a Sr. Software Developer @ Karmick Solutions Pvt Ltd!
+- 😎 8+ years of experience in full stack development
+- 🔭 I’m currently working on a [NTTPC Web Hosting, Mail Hosting Project (Suite XS)][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer's
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
+- ⚡ Fun fact: I love to play games & netflix
 
 ### Connect with me:
 

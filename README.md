@@ -1,4 +1,5 @@
-### Hi there, I'm Rajul Mondal - aka [razzul][website] 👋
+### Hi there, I'm Rajul Mondal - aka [razzul][website] 👋 
+<img src=https://komarev.com/ghpvc/?username=razzul alt="Rajul Mondal"/>
 
 ## I'm a Sr. Software Developer @ Karmick Solutions Pvt Ltd!
 - 😎 8+ years of experience in full stack development
@@ -10,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="razzul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rajul Mondal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="rajulmondal5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="razzul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

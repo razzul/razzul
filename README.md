@@ -1,6 +1,6 @@
 ### Hi there, I'm Rajul Mondal - aka [razzul][website] 👋 
 
-[<img align="left" alt="Rajul Mondal" src="https://komarev.com/ghpvc/?username=razzul" />][website]
+[<img align="left" alt="Rajul Mondal" src="https://komarev.com/ghpvc/?username=razzul" />][website]<br>
 
 ## I'm a Sr. Software Developer @ Karmick Solutions Pvt Ltd!
 - 😎 8+ years of experience in full stack development

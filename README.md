@@ -1,6 +1,6 @@
 ### Hi there, I'm Razul - aka [razzul][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer, and Teacher!
 - 🔭 I’m currently working on a [NTTPC Web Hosting Project][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer's

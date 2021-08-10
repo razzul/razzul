@@ -15,8 +15,8 @@
 [<img align="left" alt="razzul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RaZul Mondal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="@iam_razul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="razzul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="razzul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="razul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="razul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -47,7 +47,7 @@
 <img align="left" alt="razzul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razzul&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/razzul
-[twitter]: https://twitter.com/rajulmondal5
+[twitter]: https://twitter.com/iam_razul
 [youtube]: https://www.youtube.com/channel/UC9uwfmsdnF2vbcdIuhRwHuA?view_as=subscriber
-[instagram]: https://www.instagram.com/rajulmondal5
-[linkedin]: https://linkedin.com/in/rajulmondal5
+[instagram]: https://www.instagram.com/iam_razul
+[linkedin]: https://linkedin.com/in/iam_razul

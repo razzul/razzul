@@ -46,7 +46,7 @@
 
 <img align="left" alt="razzul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razzul&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/razzul
+[website]: https://razul-ab392.web.app
 [twitter]: https://twitter.com/iam_razul
 [youtube]: https://www.youtube.com/channel/UC9uwfmsdnF2vbcdIuhRwHuA?view_as=subscriber
 [instagram]: https://www.instagram.com/iam_razul

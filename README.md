@@ -38,11 +38,17 @@
 
 <br />
 <br />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&redirect=true)
+<div style="position:relative;width: 100%;">  
+  <div style="position:absolute;width: 50%;left:0;">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&redirect=true)
+  </div> 
+  <div style="position:absolute;width: 50%;left:50%;">
+    <img align="left" alt="razzul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razzul&show_icons=true&hide_border=true" />
+  </div>
+</div>
 ---
 
-<img align="left" alt="razzul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razzul&show_icons=true&hide_border=true" />
+
 
 [website]: https://razul-ab392.web.app
 [twitter]: https://twitter.com/iam_razul

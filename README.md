@@ -39,6 +39,7 @@
 <br />
 <br />
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xmwmypjpmnjcusrn353j30rn9&redirect=true)
 ---
 
 <img align="left" alt="razzul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razzul&show_icons=true&hide_border=true" />

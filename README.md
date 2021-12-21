@@ -8,7 +8,7 @@
 [<img align="left" alt="razul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Razul Mondal" src="https://komarev.com/ghpvc/?username=razzul" />][website]<br>
 
-## I'm a Sr. Software Developer @ Karmick Solutions Pvt Ltd!
+## I'm a Sr. Software Developer @ PwC!
 - 😎 9+ years of experience in full stack development
 - 🔭 I’m currently working on a [NTTPC Web Hosting, Mail Hosting Project (Suite XS)][website]!
 - 🌱 I’m currently learning everything 🤣

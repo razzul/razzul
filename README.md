@@ -48,5 +48,5 @@
 [website]: https://razul-ab392.web.app
 [twitter]: https://twitter.com/iam_razul
 [youtube]: https://www.youtube.com/channel/UC9uwfmsdnF2vbcdIuhRwHuA?view_as=subscriber
-[instagram]: https://www.instagram.com/iam_razul
+[instagram]: https://www.instagram.com/razul.mondal
 [linkedin]: https://linkedin.com/in/iam_razul
